@@ -1,3 +1,3 @@
 def prime?(int)
-  if int.all? 
+  int = int.to_i\
 end
