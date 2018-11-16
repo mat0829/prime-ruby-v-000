@@ -1,3 +1,3 @@
 def prime?(int)
-  int.all? 
+  if int.all? 
 end
